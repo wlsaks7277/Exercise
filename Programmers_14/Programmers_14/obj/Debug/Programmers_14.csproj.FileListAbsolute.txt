@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Programmers_14\Programmers_14\bin\Debug\Programmers_14.exe.config
+C:\Users\Administrator\source\repos\Programmers_14\Programmers_14\bin\Debug\Programmers_14.exe
+C:\Users\Administrator\source\repos\Programmers_14\Programmers_14\bin\Debug\Programmers_14.pdb
+C:\Users\Administrator\source\repos\Programmers_14\Programmers_14\obj\Debug\Programmers_14.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Programmers_14\Programmers_14\obj\Debug\Programmers_14.exe
+C:\Users\Administrator\source\repos\Programmers_14\Programmers_14\obj\Debug\Programmers_14.pdb
