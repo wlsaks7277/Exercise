@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Programmers_10\Programmers_10\bin\Debug\Programmers_10.exe.config
+C:\Users\Administrator\source\repos\Programmers_10\Programmers_10\bin\Debug\Programmers_10.exe
+C:\Users\Administrator\source\repos\Programmers_10\Programmers_10\bin\Debug\Programmers_10.pdb
+C:\Users\Administrator\source\repos\Programmers_10\Programmers_10\obj\Debug\Programmers_10.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Programmers_10\Programmers_10\obj\Debug\Programmers_10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Programmers_10\Programmers_10\obj\Debug\Programmers_10.exe
+C:\Users\Administrator\source\repos\Programmers_10\Programmers_10\obj\Debug\Programmers_10.pdb

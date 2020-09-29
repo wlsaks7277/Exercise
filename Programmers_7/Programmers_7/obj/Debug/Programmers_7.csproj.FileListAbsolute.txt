@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Programmers_7\Programmers_7\obj\Debug\Programmers_7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Programmers_7\Programmers_7\bin\Debug\Programmers_7.exe.config
+C:\Users\Administrator\source\repos\Programmers_7\Programmers_7\bin\Debug\Programmers_7.exe
+C:\Users\Administrator\source\repos\Programmers_7\Programmers_7\bin\Debug\Programmers_7.pdb
+C:\Users\Administrator\source\repos\Programmers_7\Programmers_7\obj\Debug\Programmers_7.exe
+C:\Users\Administrator\source\repos\Programmers_7\Programmers_7\obj\Debug\Programmers_7.pdb

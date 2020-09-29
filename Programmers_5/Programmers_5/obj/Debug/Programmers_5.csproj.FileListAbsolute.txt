@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Programmers_5\Programmers_5\obj\Debug\Programmers_5.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Programmers_5\Programmers_5\obj\Debug\Programmers_5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Programmers_5\Programmers_5\bin\Debug\Programmers_5.exe.config
+C:\Users\Administrator\source\repos\Programmers_5\Programmers_5\bin\Debug\Programmers_5.exe
+C:\Users\Administrator\source\repos\Programmers_5\Programmers_5\bin\Debug\Programmers_5.pdb
+C:\Users\Administrator\source\repos\Programmers_5\Programmers_5\obj\Debug\Programmers_5.exe
+C:\Users\Administrator\source\repos\Programmers_5\Programmers_5\obj\Debug\Programmers_5.pdb

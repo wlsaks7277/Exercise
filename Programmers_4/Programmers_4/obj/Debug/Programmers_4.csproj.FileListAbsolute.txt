@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Programmers_4\Programmers_4\obj\Debug\Programmers_4.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Programmers_4\Programmers_4\obj\Debug\Programmers_4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Programmers_4\Programmers_4\bin\Debug\Programmers_4.exe.config
+C:\Users\Administrator\source\repos\Programmers_4\Programmers_4\bin\Debug\Programmers_4.exe
+C:\Users\Administrator\source\repos\Programmers_4\Programmers_4\bin\Debug\Programmers_4.pdb
+C:\Users\Administrator\source\repos\Programmers_4\Programmers_4\obj\Debug\Programmers_4.exe
+C:\Users\Administrator\source\repos\Programmers_4\Programmers_4\obj\Debug\Programmers_4.pdb
