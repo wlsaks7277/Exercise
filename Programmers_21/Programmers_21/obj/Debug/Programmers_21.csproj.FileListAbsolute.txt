@@ -1,0 +1,7 @@
+C:\Users\JJM\source\repos\Programmers_21\Programmers_21\bin\Debug\Programmers_21.exe.config
+C:\Users\JJM\source\repos\Programmers_21\Programmers_21\bin\Debug\Programmers_21.exe
+C:\Users\JJM\source\repos\Programmers_21\Programmers_21\bin\Debug\Programmers_21.pdb
+C:\Users\JJM\source\repos\Programmers_21\Programmers_21\obj\Debug\Programmers_21.csprojAssemblyReference.cache
+C:\Users\JJM\source\repos\Programmers_21\Programmers_21\obj\Debug\Programmers_21.csproj.CoreCompileInputs.cache
+C:\Users\JJM\source\repos\Programmers_21\Programmers_21\obj\Debug\Programmers_21.exe
+C:\Users\JJM\source\repos\Programmers_21\Programmers_21\obj\Debug\Programmers_21.pdb
