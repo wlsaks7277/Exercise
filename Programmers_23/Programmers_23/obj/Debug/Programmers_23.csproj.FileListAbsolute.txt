@@ -1,0 +1,7 @@
+C:\Users\JJM\source\repos\Programmers_23\Programmers_23\bin\Debug\Programmers_23.exe.config
+C:\Users\JJM\source\repos\Programmers_23\Programmers_23\bin\Debug\Programmers_23.exe
+C:\Users\JJM\source\repos\Programmers_23\Programmers_23\bin\Debug\Programmers_23.pdb
+C:\Users\JJM\source\repos\Programmers_23\Programmers_23\obj\Debug\Programmers_23.csproj.CoreCompileInputs.cache
+C:\Users\JJM\source\repos\Programmers_23\Programmers_23\obj\Debug\Programmers_23.exe
+C:\Users\JJM\source\repos\Programmers_23\Programmers_23\obj\Debug\Programmers_23.pdb
+C:\Users\JJM\source\repos\Programmers_23\Programmers_23\obj\Debug\Programmers_23.csprojAssemblyReference.cache
